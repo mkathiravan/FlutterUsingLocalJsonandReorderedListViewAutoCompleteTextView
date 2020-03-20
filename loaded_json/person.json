@@ -1,0 +1,49 @@
+[
+  {
+    "name" : "Kathiravan",
+    "age"  : "31",
+    "gender" : "male",
+    "technology" : "Mobile Developer",
+    "city"  : "Bangalore"
+   },
+
+  {
+    "name" : "Karthik",
+    "age"  : "31",
+    "gender" : "male",
+    "technology" : "Full Stack Developer",
+    "city"  : "Bangalore"
+  },
+
+  {
+    "name" : "Srikant",
+    "age"  : "31",
+    "gender" : "male",
+    "technology" : "IOS Developer",
+    "city"  : "Bangalore"
+  },
+
+  {
+    "name" : "Ramesh",
+    "age"  : "31",
+    "gender" : "male",
+    "technology" : "Quality Assurance",
+    "city"  : "Bangalore"
+  },
+
+  {
+    "name" : "Renjin",
+    "age"  : "33",
+    "gender" : "male",
+    "technology" : "Java Developer",
+    "city"  : "Kochi"
+  },
+
+  {
+    "name" : "Jose Kurian",
+    "age"  : "32",
+    "gender" : "male",
+    "technology" : "Python Developer",
+    "city"  : "Kochi"
+  }
+]
